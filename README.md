@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🙋🏻‍♂️ Hi, I'm Ivan Lisin.
+## 🎓 I go to school.
+## 🇷🇺 I live in Russia.
+## 🐍 I'm learning Python.
+## ⛸️ I do figure skating.
+## 💭 My dream is to enroll in Innopolis.
 
 <!--
 **Vanitron/Vanitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
